@@ -1,0 +1,2 @@
+# djangominiblog
+miniblog webapplication 
