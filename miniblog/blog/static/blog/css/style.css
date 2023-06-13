@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(75, 74, 74);
+    color: rgb(156, 96, 16);
+}
+
+.form-group input {
+    color:aliceblue !important;
+    background-color: rgb(31, 11, 11) !important;
+}
+
+
+nav a {
+    color: rgb(253, 251, 247);
+}
